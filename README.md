@@ -27,8 +27,8 @@ spaCy is known for industrial-strength natural language processing library in Py
 
 Install spaCy library and download the “en” (English) model -</br>
 
-<b>pip install spacy
-python -m spacy download en</b></br>
+<b>pip install spacy</b></br>
+<b>python -m spacy download en</b></br>
 
 <b>output</b></br>
 
