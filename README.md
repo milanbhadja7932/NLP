@@ -19,6 +19,13 @@ NLTK (Natural Language Toolkit) is a Python package that provides a set of natur
 
 <b>pip install nltk</b></br>
 
+Once you’ve installed NLTK, you should install the NLTK packages by running the following code:</br>
+
+<b>import nltk</b></br>
+ 
+<b>nltk.download()</b></br>
+
+
 Information Extraction</br>
 
 Chunking</br>
