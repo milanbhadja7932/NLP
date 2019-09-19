@@ -6,7 +6,9 @@ Natural language processing (NLP) is about developing applications and services 
 Natural language toolkit (NLTK),spacy is the most popular library for natural language processing (NLP) which was written in Python </br>
 
 <b>Entity Extraction (Entities as features)</b></br>
+
 Entities are defined as the most important chunks of a sentence – noun phrases, verb phrases or both. Entity Detection algorithms are generally ensemble models of rule based parsing, dictionary lookups, pos tagging and dependency parsing. The applicability of entity detection can be seen in the automated chat bots, content analyzers and consumer insights.</br>
+
 ![face and eye](https://github.com/milanbhadja7932/NLP/blob/master/images.png)
 
 Named entity recognition (NER)is probably the first step towards information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. NER is used in many fields in Natural Language Processing (NLP), and it can help answering many real-world questions</br>
