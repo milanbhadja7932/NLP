@@ -9,13 +9,13 @@ Named entity recognition (NER)is probably the first step towards information ext
 
 NLTK (Natural Language Toolkit) is a Python package that provides a set of natural languages corpora and APIs of wide varieties of NLP algorithms.</br>
 
-pip install nltk</br>
+<b>pip install nltk</b></br>
 
 Information Extraction</br>
 
 Chunking</br>
 
-output</br>
+<b>output</b></br>
 
 ![face and eye](https://github.com/milanbhadja7932/NLP/blob/master/nlp_.png)
 
@@ -30,6 +30,6 @@ Install spaCy library and download the “en” (English) model -</br>
 <b>pip install spacy
 python -m spacy download en</b></br>
 
-output</br>
+<b>output</b></br>
 
 ![face and eye](https://github.com/milanbhadja7932/NLP/blob/master/nlp.png)
